@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1011708052725",
+    "project_id": "l41l7cxww4q8mcv88ier1zchmqttxz",
+    "storage_bucket": "l41l7cxww4q8mcv88ier1zchmqttxz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011708052725:android:0ec56369a6969703a4f1bc",
+        "android_client_info": {
+          "package_name": "com.mycompany.CounterApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011708052725-j3akfbhbnao7rrj8bkjubqji5cg5po7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3C3WwzolDa9USm2I6Uttp2glZNBWXygg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011708052725-j3akfbhbnao7rrj8bkjubqji5cg5po7n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1011708052725-gfa19puone2ki5o01cbn12klsr9tmca4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.CounterApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
